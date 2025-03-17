@@ -1,6 +1,7 @@
 let arr = [-9,-7,-6,-5,0,5,3,2];
 let op = [-5,5];
 
+
 let si = 0;
 let ei = arr.length-1;
 
@@ -13,4 +14,4 @@ while(si < ei) {
     } else {
         si--;
     }
-}
+
